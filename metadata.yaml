@@ -1,0 +1,34 @@
+_repo: Die-Familie-Selicke-Drama-in-drei-Aufzugen_52892
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Schlaf, Johannes
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '1518'
+    url: http://www.gutenberg.org/2009/agents/1518
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Johannes_Schlaf
+    - http://www.gutenberg.org/ebooks/author/1517
+  - agent_name: Holz, Arno
+    birthdate: 1863
+    deathdate: 1929
+    gutenberg_agent_id: '47105'
+    url: http://www.gutenberg.org/2009/agents/47105
+    wikipedia: http://www.gutenberg.org/ebooks/author/1517
+description: ''
+gutenberg_issued: '2016-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52892'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Drama'
+- !lcc 'PT'
+- !lcsh 'German drama -- 19th century'
+- GITenberg
+title: 'Die Familie Selicke: Drama in drei Aufzügen'
+url: http://www.gutenberg.org/ebooks/52892
